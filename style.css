@@ -7,7 +7,7 @@
 	background-size: cover;
 }
 #headertitle{
-	font-family: Lobster_Regular;
+	font-family: net;
 }
 *{
 	font-family: user;
@@ -26,4 +26,38 @@
 	border: none;
 	border-radius: 10rem;
 	background-color: #fff;
+}
+#body{
+	background: linear-gradient(to bottom, rgba(218,165,146,.4)0,rgba(218,165,146,.4)100%),url(images/img7.jpg);
+	width: 100%;
+	height: 300px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+#body1{
+	float: left;
+}
+#body2{
+	float: left;
+}
+span.diamond{
+	float: left;
+}
+div.clear{
+	clear: both;
+}
+#banner1{
+	background: linear-gradient(to bottom, rgba(218,165,146,.4)0,rgba(218,165,146,.4)100%),url(images/banner2.jpg);
+	width: 100%;
+	height: 50vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+div.contact{
+	float: left;
+}
+div.member{
+	text-align: center;
 }
